@@ -5,7 +5,8 @@
   --secondary-color: #10b981;
   --accent-color: #f59e0b;
   --text-dark: #1f2937;
-  --text-light: #6b7280;
+  /* --text-light: #6b7280; */
+    --text-light: #ffffff;
   --bg-light: #f9fafb;
   --bg-white: #ffffff;
   --border-color: #e5e7eb;
